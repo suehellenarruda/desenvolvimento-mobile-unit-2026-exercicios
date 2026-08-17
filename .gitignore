@@ -1,0 +1,14 @@
+.dart_tool/
+build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.DS_Store
+google-services.json
+GoogleService-Info.plist
+*.jks
+*.keystore
+key.properties
+.env
