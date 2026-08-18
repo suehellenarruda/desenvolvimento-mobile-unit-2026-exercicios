@@ -178,7 +178,7 @@ construído das Aulas 12 a 40. Especificação em
 
 | Bloco | Aulas | Tema |
 |---|---|---|
-| **1** | [01](exercicios/aula01) · [02](exercicios/aula02) · [03](exercicios/aula03) · [04](exercicios/aula04) · 05 | Ecossistema mobile, ambiente, adb, DevTools |
+| **1** | [01](exercicios/aula01) · [02](exercicios/aula02) · [03](exercicios/aula03) · [04](exercicios/aula04) · [05](exercicios/aula05) | Ecossistema mobile, ambiente, adb, DevTools |
 | **2** | 06 · 07 · 08 · 09 · 10 · 11 | Dart, OO, generics, assincronismo |
 | **3** | 12 · 13 · 14 · 15 · 16 · 17 · 18 | Widgets, layout, Material 3, listas, navegação |
 | **4** | 19 · 20 · 21 · 22 · 23 · 24 | Entrada de dados, estado, arquitetura |
